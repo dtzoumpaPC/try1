@@ -1,5 +1,5 @@
 # FTPY_19_Code
-
+# Classes and Object Inspection
 #class Person:
     # constructor or initializer
 #    def __init__(self, name):
